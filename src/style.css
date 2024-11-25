@@ -72,10 +72,8 @@ p{
 }
 
 .my-image{
-  /* width: 450px; */
-  /* height: 450px; */
   width: 560px;
-  height: 580px;
+  height: 560px;
   border-radius: 10px;
   top: 239px;
   left: 740px;
@@ -114,7 +112,7 @@ p{
   border-radius: 4px; 
 }
 
-@media(max-width:576px){
+@media(max-width:900px){
   h1{
     font-size: 44px;
     line-height: 56px;
