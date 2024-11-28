@@ -52,7 +52,6 @@ nav a{
 
 nav a:hover, .active a{
   color: var(--primary-color);
-  color: var(--primary-color);
 }
 
 nav ul{
